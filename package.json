@@ -10,7 +10,7 @@
     "markdown-it-table-of-contents": "^0.3.2",
     "markdown-it-texmath": "^0.4.3",
     "markdown-it-video": "^0.4.0",
-    "mermaid": "^7.0.4",
+    "mermaid": "^8.2.3",
     "morphdom": "^2.3.3",
     "slugify": "^1.2.1"
   },
